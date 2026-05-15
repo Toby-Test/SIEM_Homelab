@@ -21,7 +21,7 @@ Wazuh SIEM on Proxmox with OPNsense network segmentation. Detects SSH brute forc
 
 ### [Project 2 — AD Attack & Hardening Lab](./project-02-ad-attack-hardening)
 
-Full Active Directory environment (`southport.local`) with six attack scenarios — recon, password spraying, Kerberoasting, PsExec lateral movement, backdoor account creation, SMB exfiltration. Each attack hardened via GPO and re-validated. Five custom Wazuh rules mapped to MITRE ATT&CK.
+Full Active Directory environment (`northport.local`) with six attack scenarios — recon, password spraying, Kerberoasting, PsExec lateral movement, backdoor account creation, SMB exfiltration. Each attack hardened via GPO and re-validated. Five custom Wazuh rules mapped to MITRE ATT&CK.
 **Tech:** Windows Server 2022, Impacket, CrackMapExec, Hashcat, Suricata IDS/IPS.
 
 ## Skills demonstrated
@@ -41,7 +41,7 @@ I'm changing careers from hospitality (kitchen hand with chef-level responsibili
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/toby-van-berkel](https://www.linkedin.com/in/toby-van-berkel)
-- **Email:** [toby.test@protonmail.com.com]
+- **Email:** [toby.test@protonmail.com]
 - **GitHub:** [github.com/Toby-Test](https://github.com/Toby-Test)
 
 ---
