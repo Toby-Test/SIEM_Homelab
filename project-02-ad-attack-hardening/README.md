@@ -43,11 +43,11 @@ Three Wazuh agents active prior to attack simulation:
 
 | Document | Contents |
 |---|---|
-| [Domain Setup](docs/01-domain-setup.md) | DC deployment, AD structure, user accounts, monitoring config |
-| [Attack Scenarios](docs/02-attack-scenarios.md) | Six MITRE ATT&CK-mapped attacks with evidence |
-| [Hardening](docs/03-hardening.md) | All hardening measures applied |
-| [Validation](docs/04-validation.md) | Re-test results proving each fix works |
-| [Custom Wazuh Rules](docs/05-custom-rules.md) | Detection engineering for AD-specific attacks |
+| [Domain Setup](01-domain-setup.md) | DC deployment, AD structure, user accounts, monitoring config |
+| [Attack Scenarios](02-attack-scenarios.md) | Six MITRE ATT&CK-mapped attacks with evidence |
+| [Hardening](03-hardening.md) | All hardening measures applied |
+| [Validation](04-validation.md) | Re-test results proving each fix works |
+| [Custom Wazuh Rules](05-custom-rules.md) | Detection engineering for AD-specific attacks |
 | [Incident Report](incident-report.md) | Full incident write-up from analyst perspective |
 
 ---
