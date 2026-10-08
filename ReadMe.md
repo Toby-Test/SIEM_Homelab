@@ -9,7 +9,7 @@
 | ------------------ | ------------------------------------------------------------------------------------------ |
 | **Target role**    | Junior SOC Analyst / Blue Team Analyst                                                     |
 | **Location**       | Melbourne, VIC, Australia (remote-eligible roles welcomed)                                 |
-| **Certifications** | CompTIA Security+ (in progress, target {July 2026}) · Splunk Core Certified User (planned) |
+| **Certifications** | CompTIA Security+ SY0-701 active since 2026-07-25 |
 | **Background**     | Career change from hospitality; 5+ years self-taught Linux & homelab                       |
 | **Status**         | Active — all two projects complete and documented                                          |
 ## Projects
